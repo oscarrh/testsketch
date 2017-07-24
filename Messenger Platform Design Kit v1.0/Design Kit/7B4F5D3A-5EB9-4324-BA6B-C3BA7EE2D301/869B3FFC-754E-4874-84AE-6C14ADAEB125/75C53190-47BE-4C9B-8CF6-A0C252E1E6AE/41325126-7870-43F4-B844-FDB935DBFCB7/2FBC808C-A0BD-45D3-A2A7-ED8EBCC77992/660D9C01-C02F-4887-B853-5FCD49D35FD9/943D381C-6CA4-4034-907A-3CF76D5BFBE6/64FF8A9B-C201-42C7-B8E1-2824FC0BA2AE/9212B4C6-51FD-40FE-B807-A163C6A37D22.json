@@ -43,63 +43,207 @@
                   "UID": 8
                 },
                 {
-                  "UID": 10
+                  "UID": 26
                 },
                 {
-                  "UID": 18
+                  "UID": 34
                 },
                 {
                   "UID": 36
                 }
               ]
             },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSColor",
             "NSKern",
             {
               "$class": {
+                "UID": 25
+              },
+              "NSMaxLineHeight": 22,
+              "NSMinLineHeight": 22,
+              "NSTabStops": {
                 "UID": 9
               },
-              "NSColorSpace": 3,
-              "NSWhite": {
-                "data": "0\u0000",
-                "type": "Buffer"
-              }
-            },
-            {
-              "$classes": [
-                "NSColor",
-                "NSObject"
-              ],
-              "$classname": "NSColor"
+              "NSTextBlocks": {
+                "UID": 24
+              },
+              "NSTextLists": {
+                "UID": 24
+              },
+              "NSTighteningFactorForTruncation": 0.05000000074505806
             },
             {
               "$class": {
-                "UID": 17
+                "UID": 23
               },
-              "NSFontDescriptorAttributes": {
-                "UID": 11
-              }
-            },
-            {
-              "$class": {
-                "UID": 16
-              },
-              "NS.keys": [
+              "NS.objects": [
+                {
+                  "UID": 10
+                },
                 {
                   "UID": 12
                 },
                 {
                   "UID": 13
-                }
-              ],
-              "NS.objects": [
+                },
                 {
                   "UID": 14
                 },
                 {
                   "UID": 15
+                },
+                {
+                  "UID": 16
+                },
+                {
+                  "UID": 17
+                },
+                {
+                  "UID": 18
+                },
+                {
+                  "UID": 19
+                },
+                {
+                  "UID": 20
+                },
+                {
+                  "UID": 21
+                },
+                {
+                  "UID": 22
+                }
+              ]
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 28
+            },
+            {
+              "$classes": [
+                "NSTextTab",
+                "NSObject"
+              ],
+              "$classname": "NSTextTab"
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 56
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 84
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 112
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 140
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 168
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 196
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 224
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 252
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 280
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 308
+            },
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSLocation": 336
+            },
+            {
+              "$classes": [
+                "NSArray",
+                "NSObject"
+              ],
+              "$classname": "NSArray"
+            },
+            {
+              "$class": {
+                "UID": 23
+              },
+              "NS.objects": [
+              ]
+            },
+            {
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSMutableParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 33
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 27
+              }
+            },
+            {
+              "$class": {
+                "UID": 32
+              },
+              "NS.keys": [
+                {
+                  "UID": 28
+                },
+                {
+                  "UID": 29
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 30
+                },
+                {
+                  "UID": 31
                 }
               ]
             },
@@ -126,162 +270,18 @@
               "$class": {
                 "UID": 35
               },
-              "NSMaxLineHeight": 22,
-              "NSMinLineHeight": 22,
-              "NSTabStops": {
-                "UID": 19
-              },
-              "NSTextBlocks": {
-                "UID": 34
-              },
-              "NSTextLists": {
-                "UID": 34
-              },
-              "NSTighteningFactorForTruncation": 0.05000000074505806
-            },
-            {
-              "$class": {
-                "UID": 33
-              },
-              "NS.objects": [
-                {
-                  "UID": 20
-                },
-                {
-                  "UID": 22
-                },
-                {
-                  "UID": 23
-                },
-                {
-                  "UID": 24
-                },
-                {
-                  "UID": 25
-                },
-                {
-                  "UID": 26
-                },
-                {
-                  "UID": 27
-                },
-                {
-                  "UID": 28
-                },
-                {
-                  "UID": 29
-                },
-                {
-                  "UID": 30
-                },
-                {
-                  "UID": 31
-                },
-                {
-                  "UID": 32
-                }
-              ]
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 28
+              "NSColorSpace": 3,
+              "NSWhite": {
+                "data": "0\u0000",
+                "type": "Buffer"
+              }
             },
             {
               "$classes": [
-                "NSTextTab",
+                "NSColor",
                 "NSObject"
               ],
-              "$classname": "NSTextTab"
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 56
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 84
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 112
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 140
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 168
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 196
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 224
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 252
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 280
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 308
-            },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSLocation": 336
-            },
-            {
-              "$classes": [
-                "NSArray",
-                "NSObject"
-              ],
-              "$classname": "NSArray"
-            },
-            {
-              "$class": {
-                "UID": 33
-              },
-              "NS.objects": [
-              ]
-            },
-            {
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ],
-              "$classname": "NSMutableParagraphStyle"
+              "$classname": "NSColor"
             },
             0,
             {
