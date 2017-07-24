@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "569CF62F-A015-457A-A1DA-F3D35316DEE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 375,
+    "x": 0,
+    "y": 367
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D683DD07-A93C-4C14-B721-C76BE188131F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2101A5D-B69E-442E-B9A0-264C2644CAF2"
+    },
+    {
+      "class": "text",
+      "id": "9DC660A5-6AFE-4B69-B76A-DE54EF3201AC"
+    }
+  ],
+  "name": "Delivery Notes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

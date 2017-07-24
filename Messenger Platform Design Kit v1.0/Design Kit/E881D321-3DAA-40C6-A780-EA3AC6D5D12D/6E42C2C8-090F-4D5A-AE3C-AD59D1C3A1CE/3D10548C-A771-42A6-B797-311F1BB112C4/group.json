@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "3D10548C-A771-42A6-B797-311F1BB112C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 242,
+    "width": 340,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A5AC0730-DAD7-4A5C-BEFE-F2D5A55D6009"
+    },
+    {
+      "class": "group",
+      "id": "0DEF9C38-7D4F-4E0E-AE7F-006C52753BCC"
+    },
+    {
+      "class": "group",
+      "id": "BA44D1CA-4B95-4716-A87D-EA195BDEE84E"
+    },
+    {
+      "class": "group",
+      "id": "3A18CC30-67F5-4F92-BEF9-1D95526CCBB2"
+    },
+    {
+      "class": "group",
+      "id": "451B5FE7-D8B9-4F10-8645-7C77DBBF8F41"
+    },
+    {
+      "class": "group",
+      "id": "D5F5AA66-C508-446E-98FD-7A0D4EA192FA"
+    },
+    {
+      "class": "group",
+      "id": "C181D50E-C3E1-4B39-B5C1-03200CA18DF0"
+    }
+  ],
+  "name": "FB UI Core",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "911E6ECA-30E9-4FA9-80B3-11E13A286085",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C8A1A36A-FF20-456E-A55D-36F7AA08A59E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7165FBD5-A0F6-42EB-9191-D1FED62BF3A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2EA1E91-A2FC-4EC0-9C81-D3CB0809D47D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64114B97-E674-49B2-9C8D-CD3574B8D779"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "287FEA64-21B7-43E9-A74B-2C0CE2012509"
+    },
+    {
+      "class": "group",
+      "id": "FCAE3929-178A-42B3-807E-094C519FF61B"
+    }
+  ],
+  "name": "Movie",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

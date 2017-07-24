@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E01D5B5B-5B76-4682-B811-FE3AA0073F44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 152,
+    "width": 24,
+    "x": 64,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "253AF304-37BF-4C3C-BD2F-045AA9AB8D4F"
+    },
+    {
+      "class": "group",
+      "id": "AE9C5CB6-87A8-48F9-B8C0-ED7919B6A75F"
+    },
+    {
+      "class": "group",
+      "id": "BB83B087-0398-42A9-AB5D-DE1485EBB593"
+    }
+  ],
+  "name": "Share Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

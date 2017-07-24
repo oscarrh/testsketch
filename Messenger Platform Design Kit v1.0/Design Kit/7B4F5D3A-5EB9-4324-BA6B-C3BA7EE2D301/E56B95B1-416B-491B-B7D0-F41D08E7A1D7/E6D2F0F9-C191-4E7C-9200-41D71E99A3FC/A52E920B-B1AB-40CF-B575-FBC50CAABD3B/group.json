@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A52E920B-B1AB-40CF-B575-FBC50CAABD3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 1,
+    "y": 512
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9F7953CB-C940-4120-8A33-805B9F994B33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A724673-68CB-4B12-BEA0-C6373BD053D0"
+    },
+    {
+      "class": "group",
+      "id": "A179E6DA-D8DC-4BB4-B9B8-D2056C301029"
+    },
+    {
+      "class": "text",
+      "id": "34DAE691-3DF1-4235-BA61-CBD36377391B"
+    },
+    {
+      "class": "text",
+      "id": "FA7B6842-4121-4E98-934B-24A5E8185C34"
+    }
+  ],
+  "name": "Table cell - detail chevron",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

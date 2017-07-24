@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "85300AB9-52F3-4D57-9CEC-1973A4934341",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA3E3296-9765-4ED4-BF9C-3983C7D5F8B9"
+    },
+    {
+      "class": "group",
+      "id": "B53D9EAF-EEAB-4239-AB53-82A141D736E9"
+    },
+    {
+      "class": "text",
+      "id": "20FE57B9-567A-4C58-A78F-064D9E70F0CA"
+    },
+    {
+      "class": "text",
+      "id": "21FD642F-C113-4F27-9C51-9AF7D626CEBB"
+    },
+    {
+      "class": "text",
+      "id": "48097392-B898-418C-B873-C925217128D0"
+    }
+  ],
+  "name": "Context Banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

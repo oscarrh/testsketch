@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "61BFFCED-7A91-4650-A71B-A34458F55416",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D8E46789-5BDE-451C-A362-1A2BA42E1FAA"
+    },
+    {
+      "class": "text",
+      "id": "0A7C165B-DDBA-4932-994D-0D578BD86519"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F7A5303-59FB-4967-8EFB-B7FEE0D14517"
+    },
+    {
+      "class": "text",
+      "id": "49FC4968-DE53-4D0D-9417-B14C88A4D60A"
+    }
+  ],
+  "name": "Menu Cell 1 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "9543D1B0-05B6-4F8E-8A82-9D9CAE7831E3",
+    "startDecorationType": 0
+  }
+}

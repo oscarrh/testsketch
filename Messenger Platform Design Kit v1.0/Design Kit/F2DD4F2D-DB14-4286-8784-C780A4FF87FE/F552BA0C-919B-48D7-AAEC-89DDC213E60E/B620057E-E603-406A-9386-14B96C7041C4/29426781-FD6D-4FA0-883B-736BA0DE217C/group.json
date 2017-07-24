@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "29426781-FD6D-4FA0-883B-736BA0DE217C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 232,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B9EF3B48-CEFD-4F52-8185-6D364DC622F5"
+    },
+    {
+      "class": "group",
+      "id": "8915E673-DB7D-4F2D-9B86-7351ACFC0592"
+    },
+    {
+      "class": "group",
+      "id": "F422F733-EB7D-4FCB-9FFE-055D2CC4D144"
+    }
+  ],
+  "name": "Bottom Button Send Secondary Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "17FEBE9F-0960-4AEF-9B09-4E7A24310225",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3A555745-584B-4031-99D2-878ECEA0068E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0E1737C-B105-483F-A782-7DFA90E7F1DE"
+    },
+    {
+      "class": "text",
+      "id": "903A83DA-0EBB-4766-AB27-2F808B8F5649"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B7B0822-2B82-44C6-AAED-3B3F7EE03431"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2512A271-B58B-498E-8552-A376CE105540"
+    }
+  ],
+  "name": "Toolbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

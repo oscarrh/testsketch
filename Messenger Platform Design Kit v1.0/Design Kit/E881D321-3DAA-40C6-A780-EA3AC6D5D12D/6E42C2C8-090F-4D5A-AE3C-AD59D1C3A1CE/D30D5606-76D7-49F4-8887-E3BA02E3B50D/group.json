@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "D30D5606-76D7-49F4-8887-E3BA02E3B50D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 308,
+    "width": 820,
+    "x": 0,
+    "y": 405
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "910AA668-A233-493C-A1E0-BA5A50189B74"
+    },
+    {
+      "class": "group",
+      "id": "FFC5CA49-54E0-4491-B4F0-C56A50D89E10"
+    },
+    {
+      "class": "group",
+      "id": "B976045B-1A39-452D-9BEC-6D83EDBA17F0"
+    }
+  ],
+  "name": "FB UI Light",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

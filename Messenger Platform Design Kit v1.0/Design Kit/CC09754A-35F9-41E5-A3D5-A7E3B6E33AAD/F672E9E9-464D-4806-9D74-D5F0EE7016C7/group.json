@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F672E9E9-464D-4806-9D74-D5F0EE7016C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1495,
+    "width": 1738,
+    "x": 80,
+    "y": 965
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D99E13E3-7F07-4D64-B60B-1EB311A550EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCDC1684-AAD2-4401-BEFB-CE4A6043C0C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9930708-0140-4F03-86D5-59946D1E21DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFD687CC-E360-4720-8DAE-A2E75E4D20EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B77E476-5245-4D91-969D-1D74BC5D712E"
+    }
+  ],
+  "name": "Extension Container",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

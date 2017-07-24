@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "721848E9-FB08-4321-BB59-BC09B5558C27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0BEAF0C-F1AA-47E2-974F-DEFEFA209A5B"
+    },
+    {
+      "class": "text",
+      "id": "C8691B6C-C6A0-4217-8069-EBB7CACE7FFD"
+    },
+    {
+      "class": "text",
+      "id": "30979956-D8BA-410B-B9A0-6A7C85DB3D1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D17D3EA4-D626-4CA1-8FAD-3C488CFD96C0"
+    }
+  ],
+  "name": "Menu Cell 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "C4816588-1336-4BBD-9380-5BA0902AE368",
+  "name": "Text Large Secondary",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "C4816588-1336-4BBD-9380-5BA0902AE368",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 8
+                  },
+                  "NSFontDescriptorAttributes": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 7
+                  },
+                  "NS.keys": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 4
+                    }
+                  ],
+                  "NS.objects": [
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    }
+                  ]
+                },
+                "NSFontSizeAttribute",
+                "NSFontNameAttribute",
+                16,
+                "SFUIText-Regular",
+                {
+                  "$classes": [
+                    "NSMutableDictionary",
+                    "NSDictionary",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableDictionary"
+                },
+                {
+                  "$classes": [
+                    "NSFontDescriptor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSFontDescriptor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSColor": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "NSRGB": {
+                    "data": "0 0 0 0.5\u0000",
+                    "type": "Buffer"
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 3
+                  },
+                  "NSID": 1
+                },
+                {
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColorSpace"
+                },
+                {
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSKern": 0,
+        "NSParagraphStyle": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 18
+                  },
+                  "NSMaxLineHeight": 22,
+                  "NSMinLineHeight": 22,
+                  "NSTabStops": {
+                    "UID": 2
+                  },
+                  "NSTextBlocks": {
+                    "UID": 17
+                  },
+                  "NSTextLists": {
+                    "UID": 17
+                  },
+                  "NSTighteningFactorForTruncation": 0.05000000074505806
+                },
+                {
+                  "$class": {
+                    "UID": 16
+                  },
+                  "NS.objects": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    },
+                    {
+                      "UID": 7
+                    },
+                    {
+                      "UID": 8
+                    },
+                    {
+                      "UID": 9
+                    },
+                    {
+                      "UID": 10
+                    },
+                    {
+                      "UID": 11
+                    },
+                    {
+                      "UID": 12
+                    },
+                    {
+                      "UID": 13
+                    },
+                    {
+                      "UID": 14
+                    },
+                    {
+                      "UID": 15
+                    }
+                  ]
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 28
+                },
+                {
+                  "$classes": [
+                    "NSTextTab",
+                    "NSObject"
+                  ],
+                  "$classname": "NSTextTab"
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 56
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 84
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 112
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 140
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 168
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 196
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 224
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 252
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 280
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 308
+                },
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSLocation": 336
+                },
+                {
+                  "$classes": [
+                    "NSArray",
+                    "NSObject"
+                  ],
+                  "$classname": "NSArray"
+                },
+                {
+                  "$class": {
+                    "UID": 16
+                  },
+                  "NS.objects": [
+                  ]
+                },
+                {
+                  "$classes": [
+                    "NSMutableParagraphStyle",
+                    "NSParagraphStyle",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableParagraphStyle"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        }
+      }
+    }
+  }
+}

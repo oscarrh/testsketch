@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "16694D74-C47D-479E-B190-11F1084FA48D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 78,
+    "width": 351,
+    "x": 12,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8B648C4A-9813-4508-84A2-BC4089A7275A"
+    },
+    {
+      "class": "group",
+      "id": "05D3FDA4-A174-4A7B-8DA2-C8966145F18C"
+    },
+    {
+      "class": "group",
+      "id": "2C9423E8-07E4-4DE5-8D85-7A1A4AB2E064"
+    },
+    {
+      "class": "group",
+      "id": "05B30A31-3A8B-4C8F-B5A5-4C341BEA294D"
+    },
+    {
+      "class": "group",
+      "id": "D4BE65CF-5FBC-44E0-8723-B21499B29BA2"
+    },
+    {
+      "class": "group",
+      "id": "8070230D-5B67-432D-8BE5-87490C289D41"
+    }
+  ],
+  "name": "Wrapping times",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

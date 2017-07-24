@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "0D8D5C62-F1D9-4B5B-9EDD-CB6591E44B27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 40,
+    "x": 60,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8F5216AF-D476-4AA7-A282-40315F2FDC63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C42C7FC-23B0-43A3-9F3B-5D968D2BDC19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BC4982B-9D71-49CD-8B95-1091DC4F3760"
+    }
+  ],
+  "name": "Share Button Circular Primary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

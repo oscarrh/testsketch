@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "21A145D4-3330-4746-90FD-2EA0BA4051E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "23AD682D-B174-4441-97FD-AB06F4735838"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCEA31D5-0BE5-48D0-8C94-8E46B4438DCA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B015C98-8FA9-4C47-A690-3945AF8430F0"
+    }
+  ],
+  "name": "Send Button Circular Primary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

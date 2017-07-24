@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6B855FCA-632B-4390-90CD-35569093E824",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BB0C285-E3DC-45F9-90D9-13E8782E8FF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75CEE3FD-313F-458C-A77B-84DCDDD72BA3"
+    },
+    {
+      "class": "group",
+      "id": "719E92CF-0CA9-42B0-98E2-78DA12805088"
+    },
+    {
+      "class": "group",
+      "id": "C9661102-987B-4168-A931-D37B61933D6E"
+    }
+  ],
+  "name": "Android Bot Thread",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

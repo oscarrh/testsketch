@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C9661102-987B-4168-A931-D37B61933D6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 592
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A271A286-A865-4C62-9CB8-DD07A1C286AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19256C4E-56AB-4896-B822-69536D5F6A7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35E8A6EF-F0CE-4E01-B9A9-5EC9A999EEBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7B0ECDF-3D13-4844-8299-A1F7390E7972"
+    }
+  ],
+  "name": "Software Keys",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

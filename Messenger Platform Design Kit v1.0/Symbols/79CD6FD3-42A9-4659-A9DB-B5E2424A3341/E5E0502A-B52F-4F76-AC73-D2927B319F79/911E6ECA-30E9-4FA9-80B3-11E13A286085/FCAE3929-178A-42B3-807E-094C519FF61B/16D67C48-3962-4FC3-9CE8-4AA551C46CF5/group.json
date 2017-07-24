@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "16D67C48-3962-4FC3-9CE8-4AA551C46CF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 164,
+    "width": 375,
+    "x": 0,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "75024280-6419-4BAB-829C-F106D40D2970"
+    },
+    {
+      "class": "group",
+      "id": "16694D74-C47D-479E-B190-11F1084FA48D"
+    },
+    {
+      "class": "text",
+      "id": "8E0F084A-1948-46DE-961F-552035BA01A0"
+    },
+    {
+      "class": "text",
+      "id": "86C4CEED-8819-41DE-A34C-75F3501D27F6"
+    },
+    {
+      "class": "text",
+      "id": "56037E65-28CD-41AC-8CA6-A02930FA3604"
+    }
+  ],
+  "name": "Showtime",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

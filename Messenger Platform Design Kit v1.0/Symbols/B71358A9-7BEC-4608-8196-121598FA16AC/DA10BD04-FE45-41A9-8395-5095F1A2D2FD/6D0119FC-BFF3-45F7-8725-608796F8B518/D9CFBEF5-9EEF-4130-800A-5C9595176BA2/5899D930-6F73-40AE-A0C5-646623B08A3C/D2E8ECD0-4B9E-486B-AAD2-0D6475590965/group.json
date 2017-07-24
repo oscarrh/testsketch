@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "D2E8ECD0-4B9E-486B-AAD2-0D6475590965",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 328,
+    "x": 4,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5E65C1AE-182D-47CD-A36B-A915973265D6"
+    },
+    {
+      "class": "text",
+      "id": "8A5407B9-CE5D-4031-B923-D5673528056E"
+    },
+    {
+      "class": "text",
+      "id": "45FB501A-78C9-4C29-9188-D70CCDF2DA7B"
+    },
+    {
+      "class": "text",
+      "id": "BDFC0330-E67A-4CFD-B7A5-2E1D1020337B"
+    },
+    {
+      "class": "text",
+      "id": "E9ACFCC4-265D-4818-A4AC-5E0E6D0AF6C0"
+    },
+    {
+      "class": "text",
+      "id": "8E443BA3-7678-413D-A799-85D51635C603"
+    },
+    {
+      "class": "text",
+      "id": "B52FB8F7-2440-4F95-859C-122E3BF8F348"
+    }
+  ],
+  "name": "weekdays",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5378FC74-E261-4068-BC27-4443567A148D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 163,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "060EDDAB-023A-42B8-B66E-EF52A37EC3CD"
+    },
+    {
+      "class": "text",
+      "id": "6FBEA58F-2237-43E9-8396-5967EFBD6BCF"
+    },
+    {
+      "class": "group",
+      "id": "BAD626FE-5D0E-4FEA-AA08-20B3D5FD00B8"
+    }
+  ],
+  "name": "Quick Reply / Icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
